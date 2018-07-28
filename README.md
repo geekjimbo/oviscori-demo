@@ -57,7 +57,8 @@ Basic knowledge of Ruby on Rails programming and have Ruby on Rails set up in yo
 
   running output should look like this:
 
-      <img width="1256" alt="output" src="https://user-images.githubusercontent.com/5617666/43361380-5785891a-928a-11e8-83b9-ffcdb420d429.png">
+       ![Alt text]("https://user-images.githubusercontent.com/5617666/43361398-ed63f66a-928a-11e8-8e22-a25cbbc41911.png?raw=true", "Title")
+       
 
 * open `dataAll.csv` with your editor of choice and save the file with:
 
