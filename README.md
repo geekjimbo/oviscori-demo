@@ -1,5 +1,5 @@
 ## Code to Reverse Engineer `Ubicaciones` from Lat/Long in Costa Rica
-By In. Jimmy Figueroa A - jimmyfigueroa@me.com 
+By Ing. Jimmy Figueroa A - jimmyfigueroa@me.com 
 
 Ideas is leverage Google's Search engine to get a lat/long like: 
 
@@ -11,10 +11,10 @@ and turn it into:
 
 You may choose your own language to do it, I found it easier
 to get the job done with Ruby on Rails by leveraging the Geocoder Gem,
-which is in fact an easier to user interface for Google's Search Engine.
+which is in fact an easier interface for Google's Search Engine.
 
 ## Data Source
-Ovsicori-UNA from Costa rica 
+Ovsicori-UNA from Costa Rica 
 
       http://www.ovsicori.una.ac.cr/index.php/sismologia/sistemas-consulta/sismicidad-anual
 
