@@ -55,6 +55,10 @@ Basic knowledge of Ruby on Rails programming and have Ruby on Rails set up in yo
       # -- batch = All means give my output file a name like `dataAll`
       ruby opciones.rb --idx 0 --batch All
 
+  running output should look like this:
+
+      ![Alt text](./output.png?raw=true "Output")
+
 * open `dataAll.csv` with your editor of choice and save the file with:
 
       Encoding UTF-16 
