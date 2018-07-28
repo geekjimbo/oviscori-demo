@@ -57,7 +57,7 @@ Basic knowledge of Ruby on Rails programming and have Ruby on Rails set up in yo
 
   running output should look like this:
 
-      ![sample output](output.png)
+  ![sample output](output.png)
 
 * open `dataAll.csv` with your editor of choice and save the file with:
 
