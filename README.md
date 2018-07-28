@@ -18,9 +18,11 @@ Ovsicori-UNA from Costa Rica
 
       http://www.ovsicori.una.ac.cr/index.php/sismologia/sistemas-consulta/sismicidad-anual
 
-Data file scrapped from the above linke:
+Data file manually scrapped by the Author from the above link:
 
       sismisidad-cr-2009-2018ytd.xlsx
+
+Data file contains earthquake events recorded by OVSICORI-UNA ever since 2009 to the latest events in 2018 year to date.
 
 ## Pre-requisites 
 Basic knowledge of Ruby on Rails programming and have Ruby on Rails set up in your environment.
@@ -34,7 +36,7 @@ Basic knowledge of Ruby on Rails programming and have Ruby on Rails set up in yo
 
       sismisidad-cr-2009-2018ytd.xlsx
 
-  has been refactored into an array of lat/long like this:
+  has been refactored into an array of lat/long as part of the Ruby code like this:
 
       arr = [ [lat1, long1], [lat2, long2], ... ]
 
